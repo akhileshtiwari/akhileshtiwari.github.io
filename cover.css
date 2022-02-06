@@ -64,6 +64,9 @@ body {
     margin: auto;
     background-image: linear-gradient(rgba(255, 192, 105, 0.3), rgba(255, 192, 105, 0.3)), url(profile.jpg);
 }
+.profile {
+    border-right: 1px ridge #ffc069;
+}
 
 .apps {
     height: 500px;
